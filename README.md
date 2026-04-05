@@ -60,5 +60,3 @@ This is a personal learning repository, but suggestions and improvements are alw
 ---
 
 “Learn by doing. Secure by understanding.”
-
-If you want, I can also create a **writeup template file** so you can quickly add new rooms in a consistent format.
