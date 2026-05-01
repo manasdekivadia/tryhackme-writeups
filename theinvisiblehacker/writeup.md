@@ -122,8 +122,6 @@ After bypassing the login page, what is the statement of Elliot Alderson?
 
 ---
 
-Here is your **refined Task 6 section** with the additional steps clearly integrated and written in a clean, professional style:
-
 ---
 
 # Task 6: Access to Elliot
